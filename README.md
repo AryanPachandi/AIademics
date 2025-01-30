@@ -1,1 +1,1 @@
-# Smart_-education
+# AIademics
