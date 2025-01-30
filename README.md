@@ -1,1 +1,1 @@
-# AIademics
+# SmartEdify 
